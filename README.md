@@ -38,3 +38,11 @@ This is why I started my own kind of wrapper.
 <li> Added Class and implementation for org.apache.log4j.Hierarchy, org.apache.log4j.RollingFileAppender, org.apache.log4j.FileAppender, org.apache.log4j.jmx.HierarchyDynamicMBean, org.apache.log4j.helpers.LogLog </li>
 <li> Overwrite org.apache.log4j.Logger, org.apache.log4j.xml.DOMConfigurator </li>
 </ol>
+<b>bridge-ext-rebuild</b>
+<ol>
+  <li> rebuild version of bridge-ext + log4j-1.2-api-2.17.1.jar </li>
+ </ol>
+ <b>apache.log4j2</b>
+<ol>
+  <li> a.	One jar containing all class makeup for bridge-ext-rebuild.jar, log4j-api-2.17.1.jar, log4j-core-2.17.1.jar, log4j-jcl-2.17.1.jar, log4j-slf4j-2.17.1.jar, log4j-web-2.17.1.jar </li>
+ </ol>
